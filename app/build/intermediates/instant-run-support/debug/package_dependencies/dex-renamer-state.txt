@@ -1,0 +1,19 @@
+#Sat Apr 22 10:11:27 PDT 2017
+renamed.5=classes4.dex
+renamed.4=classes2.dex
+renamed.3=classes5.dex
+renamed.2=classes6.dex
+renamed.1=classes3.dex
+renamed.0=classes.dex
+base.5=C\:\\Users\\Ryan\\AndroidStudioProjects\\TouringMusician\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_d0c199c7729529f59a85cfb55b9ab89bf83f14a1
+base.4=C\:\\Users\\Ryan\\AndroidStudioProjects\\TouringMusician\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_bd58484ed49d163af6649915ac302b6b2404d0aa
+base.3=C\:\\Users\\Ryan\\AndroidStudioProjects\\TouringMusician\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.4.0_02faa761e6b105d6104397115a0bb64368dceb27
+base.2=C\:\\Users\\Ryan\\AndroidStudioProjects\\TouringMusician\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.4.0_d870a38364a2fabec669893bc29b28dcefd0190a
+base.1=C\:\\Users\\Ryan\\AndroidStudioProjects\\TouringMusician\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_c352349152cf5feb9d38ef46ed0f2d7219ec8f80
+base.0=C\:\\Users\\Ryan\\AndroidStudioProjects\\TouringMusician\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_7f615aac54bab31165aa6306d4c4e45078145dac
+file.5=C\:\\Users\\Ryan\\AndroidStudioProjects\\TouringMusician\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_d0c199c7729529f59a85cfb55b9ab89bf83f14a1\\classes.dex
+file.4=C\:\\Users\\Ryan\\AndroidStudioProjects\\TouringMusician\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_bd58484ed49d163af6649915ac302b6b2404d0aa\\classes.dex
+file.3=C\:\\Users\\Ryan\\AndroidStudioProjects\\TouringMusician\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.4.0_02faa761e6b105d6104397115a0bb64368dceb27\\classes.dex
+file.2=C\:\\Users\\Ryan\\AndroidStudioProjects\\TouringMusician\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.4.0_d870a38364a2fabec669893bc29b28dcefd0190a\\classes.dex
+file.1=C\:\\Users\\Ryan\\AndroidStudioProjects\\TouringMusician\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_c352349152cf5feb9d38ef46ed0f2d7219ec8f80\\classes.dex
+file.0=C\:\\Users\\Ryan\\AndroidStudioProjects\\TouringMusician\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_7f615aac54bab31165aa6306d4c4e45078145dac\\classes.dex
